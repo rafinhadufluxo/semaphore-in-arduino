@@ -1,6 +1,6 @@
 # Desenvolvimento de um Semáforo no Arduino Uno
 
-## Visão geral
+
 
 É de todo conhecimento geral que o semáforo é apenas um instrumento para controlar o tráfego de veículos tanto para pedestre em grandes cidades urbanas, mas a pergunta é? Como é feita essa estrutura ou tem alguma linguagem de programação por trás, essas e outras perguntas serão respondidas ao decorrer do desenvolvimento.
 Para entender melhor sobre o desenvolvimento deste módulo, iniciaremos um projeto simples de um semáforo capaz de acender as luzes de acordo com o tempo dado entre um tráfego de trânsito, contando minutos de cada cor, sinalizando o seu efeito de cada um. Aliás, sobre linguagem de programação, neste caso utilizaremos um software livre para montar, codificar e personalizar com melhorias.
