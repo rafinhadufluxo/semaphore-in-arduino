@@ -8,6 +8,12 @@ Para entender melhor sobre o desenvolvimento deste módulo, iniciaremos um proje
 
 Para saber mais informações acesse www.arduino.cc
 
+## Metodologias
+
+Para o desenvolvimento do protótipo houve a necessidade de  apropriar de conhecimentos básicos de eletrônica, pois no desenvolvimento dessa atividade foram necessários alguns conhecimentos sobre programação e lógica de programação, além de conhecimentos de objetos do conhecimento da área da Matemática.
+
+Para obter mais sobre o assunto, abaixe o manual na pasta Docs.
+
 ## Objetivos
 
 A princípio o grande desafio deste projeto é a implementação correta dos LEDS com suas respectivas cores, além disso teremos resistores e jumpers no circuito e o uso de uma das linhas inferiores da protoboard, conectando o pino GND (negativo) do Arduino na linha azul da protoboard. Para começarmos a desenvolver o protótipo, precisamos dos seguintes componentes que são eles:
@@ -23,6 +29,10 @@ Cada um desses componentes é necessário para implementação do semáforo, a d
 ## Matemática do Semáforo
 
 ## Considerações Finais
+
+Neste módulo da pesquisa procurou-se estudar sobre as potencialidades da inclusão do semáforo na educação básica. Com o objetivo de conhecimento matemático e da lógica de programação, e a criação e montagem deste protótipo, foram adquiridos alguns materiais, tais como: placas Arduino, leds, entre outros componentes. A princípio tivemos que decifrar o semáforo, sua lógica de funcionamento. Ele é um instrumento de mobilidade e segurança muito importante, serve para controlar o tráfego de veículos, bem como regular o fluxo de pedestres, principalmente em grandes centros urbanos. Nessa atividade exploramos objetos do conhecimento da área de Matemática, como é o caso das funções definidas por sentenças e funções periódicas. Aqui vale destacar que a temática semáforo e mobilidade, além de abordar os objetos do conhecimento da área da Matemática já citados, poderia resultar no desenvolvimento de um projeto integrador envolvendo todas as áreas do conhecimento como inteligência artificial.
+
+<br>
 
 
 ## Como Contribuir
